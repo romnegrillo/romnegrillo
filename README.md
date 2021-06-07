@@ -2,7 +2,7 @@
 
 ### About Me:
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/romnegrillo/romnegrillo/master/gifs/Hi.gif" />
+<img align="right" height="30%" width="30%" alt="" src="https://raw.githubusercontent.com/romnegrillo/romnegrillo/master/gifs/sharingan.gif" />
 
 I'm still an undergraduate student working as a Software Engineer. Haven't finished my college yet since I started 
 working as freelance software/hardware developer because of our financial situation back in 2017. As of now I'm focused
