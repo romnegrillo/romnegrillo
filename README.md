@@ -7,7 +7,8 @@
 I'm still an undergraduate student working as a Software Engineer. Haven't finished my college yet since I started 
 working as freelance software/hardware developer because of our financial situation back in 2017. As of now I'm focused
 on my career and continuously improving my skills even without a degree. I'm interested in software development, 
-specifically in the field of web development, automation and machine learning. I spend time studying about finance as well.
+specifically in the field of web development, automation and machine learning. I spend time studying about finance, 
+trading and investing in the financial market as well. 
 
 Proficient in using Python and C++ for creating full-featured web , desktop, embedded and IT automation applications.
 Has an attention to detail in programming to ensure high quality code that is readable, easier to maintain, and scalable. 
