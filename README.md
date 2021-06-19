@@ -30,25 +30,56 @@ I'm not active on social media nowadays and deactivated most of it in order to f
 
 #
 
-### Languages and Tools:
+### Languages
 
-I work with the following programming languages, frameworks and tools.
+<img alt="Python" class="skills-logo-large"
+    src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="JavaScript" class="skills-logo-small"
+    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img alt="C++" class="skills-logo-small"
+    src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img alt="HTML5" class="skills-logo-small"
+    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" class="skills-logo-small"
+    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="SQLite" class="skills-logo-small"
+    src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+    
+### Framework and Tools
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="django"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png" alt="qt"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github-wordmark"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="linux"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="tensorflow"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="arduino"></code>
-<code><img height="27" src="https://img.shields.io/badge/-]RaspberryPi?logo=Raspberry-Pi" alt="rpi"></code>
-<code><img height="27" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?logo=visual-studio-code&logoColor=white" alt="vscode"></code>
-<code><img height="27" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?&logo=visual-studio&logoColor=white" alt="visualstudio"></code>
+<img alt="Django" class="skills-logo-small"
+    src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+<img alt="DjangoREST" class="skills-logo-small"
+    src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+<img alt="React" class="skills-logo-small"
+    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img alt="NodeJS" class="skills-logo-small"
+    src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+<img alt="Bootstrap" class="skills-logo-small"
+    src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img alt="jQuery" class="skills-logo-small"
+    src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+<img alt="Qt" class="skills-logo-small"
+    src="https://img.shields.io/badge/qt%20framework-Tc54d.svg?style=for-the-badge&logo=qt&logoColor=white" />
+<img alt="Git" class="skills-logo-small"
+    src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="GitHub" class="skills-logo-small"
+    src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img alt="Linux" class="skills-logo-small"
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img alt="OpenCV" class="skills-logo-small"
+    src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+<img alt="TensorFlow" class="skills-logo-small"
+    src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img alt="Amazon Web Services" class="skills-logo-small"
+     src="https://img.shields.io/badge/Amazon Web Services-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
+    
+### Hardware Platforms
+
+<img alt="Arduino" class="skills-logo-small"
+     src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+<img alt="Raspberry Pi" class="skills-logo-small"
+     src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" />
 
 #
 
@@ -67,10 +98,3 @@ I work with the following programming languages, frameworks and tools.
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=romnegrillo&hide_border=true" />
- 
-#
-
-
-Template by: https://github.com/iampavangandhi
-
-Thanks mate!
