@@ -45,6 +45,11 @@ Linkedin or via email.
     src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" class="skills-logo-small"
     src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    
+#
+
+### Database
+
 <img alt="SQLite" class="skills-logo-small"
     src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img alt="Postgres" class="skills-logo-small"
