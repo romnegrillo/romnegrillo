@@ -5,11 +5,11 @@
 <img align="right" height="30%" width="30%" alt=""
     src="https://raw.githubusercontent.com/romnegrillo/romnegrillo/master/gifs/hello.gif" />
 
-I'm an undergraduate student working as a Software Engineer. Haven't finished my college yet since I started working as freelance software/hardware developer because of our bad financial situation back in 2017. As of now I'm focused on my career and continuously improving my skills even without a degree. I'm interested in software development, specifically in the field of web development, automation, and data science. I spend time studying about finance, trading, and investing in the financial market as well.
+I'm an undergraduate student working as a Software Engineer. Haven't finished my college yet since I started working as freelance software/hardware developer because of our bad financial situation back in 2017. As of now I'm focused on my career and continuously improving my skills even without a degree. I'm interested in software development, specifically in the field of web development, automation, and data engineering. I spend time studying about finance, trading, and investing in the financial market as well.
 
 Experienced in using Python and C++ for creating full-featured web, desktop, embedded and IT automation applications. Has an attention to detail in programming to ensure high quality code that is readable, easier to maintain, and scalable.
 
-Aspiring Full-Time Stock Trader that has still a lot to learn from the market. I'm a passive position and trend following trader that focuses on bigger moves and less on small fluctuations.
+Aspiring Full-Time Trader that has still a lot to learn from the market. I'm a passive position and trend following trader that focuses on bigger moves and less on small fluctuations.
 
 #
 
