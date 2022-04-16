@@ -59,7 +59,7 @@ Linkedin or via email.
 <img alt="PostgresSQL" class="img-shields"
     src="https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img alt="Python Selenium" class="img-shields"
-    src="https://img.shields.io/badge/python selenium-%2343853D.svg?style=for-the-badge&logo=selenium&logoColor=white">
+    src="https://img.shields.io/badge/selenium-%2343853D.svg?style=for-the-badge&logo=selenium&logoColor=white">
 <img alt="Pandas" class="img-shields"
     src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img alt="Numpy" class="img-shields"
@@ -81,7 +81,7 @@ Linkedin or via email.
 <img alt="C++" class="img-shields"
     src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img alt="Qt" class="img-shields"
-    src="https://img.shields.io/badge/qt%20-Tc54d.svg?style=for-the-badge&logo=qt&logoColor=white">
+    src="https://img.shields.io/badge/qt-Tc54d.svg?style=for-the-badge&logo=qt&logoColor=white">
 <img alt="OpenCV" class="img-shields"
     src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
 <img alt="Arduino" class="custom-custom-skills-logo-small" class="img-shields"
