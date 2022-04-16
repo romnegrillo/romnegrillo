@@ -9,7 +9,7 @@ Software Engineer by profession, focusing on Web, Automation and Data Engineerin
 language. Has attention to detail in coding, adhering to best practices of writing clean code, following proper
 software design patterns and principles.
 
-An aspiring trader that has still much to learn from the financial market. My goal is to trade full-time someday.
+An aspiring trader that has still much to learn from the financial markets. My goal is to trade full-time someday.
 Mastering the craft and mastering myself.
 
 In today's rapidly changing world, there are so many things left to learn. I will always remain a student.
