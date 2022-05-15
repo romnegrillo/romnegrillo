@@ -62,26 +62,6 @@ Website: [https://romnegrillo.herokuapp.com/](https://romnegrillo.herokuapp.com/
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-
-## Clean Code Personal Guidelines
-
-- Use descriptive variables, functions, and class names. Keep it short and direct to the point.
-- Do not Repeat Yourself (DRY). If there are so many repetitive blocks of code, there must be a way to reduce it such as using function.
-- Separation of concerns. Follow proper design patterns on the app you are developing. 
-- Follow OOP SOLID Principles.
-- Make the code process understandable even if we don't read the comments. If you’re familiar in the language and you don’t understand the process in just few minutes, it’s probably badly written.
-- Don't settle for "It already works!" Follow proper coding conventions for each language so that the code is understandable, maintainable and flexible. Reference: https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
-
-
-### Python: 
-- https://peps.python.org/pep-0008/ 
-### JavaScript: 
-- https://www.w3schools.com/js/js_conventions.asp 
-### HTML/CSS:
-- https://www.w3schools.com/html/html5_syntax.asp
-- https://css-tricks.com/bem-101/ 
-
-
 ## Stats:
 
 ### Github Stats
