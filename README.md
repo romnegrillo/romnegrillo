@@ -2,8 +2,6 @@
 
 ## About Me:
 
-<img src="https://raw.githubusercontent.com/romnegrillo/romnegrillo/master/gifs/hello.gif" alt="Cat" align="right" height="200em">
-
 Software Engineer by profession, focusing on Web, Automation and Data Engineering. Python is my main programming
 language. Has attention to detail in coding, adhering to best practices of writing clean code, following proper
 software design patterns and principles.
