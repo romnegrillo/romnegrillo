@@ -1,6 +1,6 @@
 ![Cover](cover.png)
 
-# 👋 Hi there, I'm Rom!
+
 
 ## About Me
 
@@ -21,7 +21,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -43,4 +42,5 @@
 
 ## My GitHub Stats
 
-[![romnegrillo](https://github-readme-stats.vercel.app/api?username=romnegrillo&show_icons=true&theme=radical)](https://github.com/romnegrillo)
+[![GitHub Streak](https://streak-stats.demolab.com?user=romnegrillo&theme=react)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romnegrillo&show_icons=true&theme=react)](https://github.com/romnegrillo)
